@@ -1,13 +1,12 @@
 # Bootstrap
 app/bootstrap*
 
-# Symfony directories
-vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
+# Silex directories
+site/vendor/*
+site/*/logs/*
+site/*/cache/*
+site/web/uploads/*
+site/web/bundles/*
 
-# Configuration files
-app/config/parameters.ini
-app/config/parameters.yml
+# phpstorm
+.idea

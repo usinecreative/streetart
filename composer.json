@@ -1,0 +1,17 @@
+{
+    "name": "johnkrovitch/street art",
+    "description": "Street Art Restaurant, le site du meilleur resto de burger de Lyon !",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "johnkrovitch",
+            "email": "arnaudfrezet@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "dev-master"
+    },
+    "config": {
+        "vendor-dir": "site/vendor"
+    }
+}
